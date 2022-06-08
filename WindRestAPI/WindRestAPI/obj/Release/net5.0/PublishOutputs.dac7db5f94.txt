@@ -1,0 +1,13 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindRestAPI.exe
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindRestAPI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindRestAPI.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindRestAPI.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindRestAPI.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindGeneratorLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindRestAPI\WindRestAPI\obj\Release\net5.0\PubTmp\Out\WindGeneratorLib.pdb

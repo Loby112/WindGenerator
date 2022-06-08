@@ -1,0 +1,12 @@
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\bin\Debug\net5.0\WindGeneratorLib.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\bin\Debug\net5.0\WindGeneratorLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\bin\Debug\net5.0\WindGeneratorLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\refint\WindGeneratorLib.dll
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\WindGeneratorLib.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestPractice\WindGenerator\WindGeneratorLib\WindGeneratorLib\obj\Debug\net5.0\ref\WindGeneratorLib.dll

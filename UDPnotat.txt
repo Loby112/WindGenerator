@@ -1,0 +1,5 @@
+UDP Broadcast alle på netværk
+
+Normal UDP sendes til en bestemt ip addresse
+
+Begge sender bytes ud, skaber ikke en forbindelse til modtager
